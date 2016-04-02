@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1453822867 source:c:\users\zpiao\programming\c\c primer plus\exerise 17.5\reversestring.c
+	<stdio.h>
+	"stack.h"
+
+1453821764 c:\users\zpiao\programming\c\c primer plus\exerise 17.5\stack.h
+	<stdbool.h>
+
+1453822938 source:c:\users\zpiao\programming\c\c primer plus\exerise 17.5\stack.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+

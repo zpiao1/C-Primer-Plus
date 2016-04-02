@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1453772841 source:c:\users\zpiao\programming\c\c primer plus\listing 17.6-8\queue.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
+1453772275 c:\users\zpiao\programming\c\c primer plus\listing 17.6-8\queue.h
+	<stdbool.h>
+

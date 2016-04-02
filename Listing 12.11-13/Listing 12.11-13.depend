@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1451029704 source:c:\users\zpiao\programming\c\c primer plus\listing 12.11-13\diceroll.c
+	"diceroll.h"
+	<stdio.h>
+	<stdlib.h>
+
+1451028407 c:\users\zpiao\programming\c\c primer plus\listing 12.11-13\diceroll.h
+
+1451029730 source:c:\users\zpiao\programming\c\c primer plus\listing 12.11-13\manydice.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"diceroll.h"
+

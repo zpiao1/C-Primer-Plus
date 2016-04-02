@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1448637246 source:c:\users\zpiao\programming\c\c primer plus\hello\hello.c
+	<stdio.h>
+	<stdlib.h>
+

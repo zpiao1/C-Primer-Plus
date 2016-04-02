@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1451744548 source:c:\users\zpiao\programming\c\c primer plus\listing 13.1\count.c
+	<stdio.h>
+	<stdlib.h>
+

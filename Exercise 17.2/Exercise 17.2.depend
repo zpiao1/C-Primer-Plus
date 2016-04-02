@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1453733061 source:c:\users\zpiao\programming\c\c primer plus\exercise 17.2\films3.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"list.h"
+
+1453812004 c:\users\zpiao\programming\c\c primer plus\exercise 17.2\list.h
+	<stdbool.h>
+
+1453812417 source:c:\users\zpiao\programming\c\c primer plus\exercise 17.2\list.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+

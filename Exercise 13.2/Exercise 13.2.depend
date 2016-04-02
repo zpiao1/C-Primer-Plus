@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1452058440 source:c:\users\zpiao\programming\c\c primer plus\exercise 13.2\exercise 13.2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

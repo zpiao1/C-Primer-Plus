@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1453772841 source:c:\users\zpiao\programming\c\c primer plus\exercise 17.4\queue.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
+1453775965 c:\users\zpiao\programming\c\c primer plus\exercise 17.4\queue.h
+	<stdbool.h>
+
+1453814782 source:c:\users\zpiao\programming\c\c primer plus\exercise 17.4\mall.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"queue.h"
+

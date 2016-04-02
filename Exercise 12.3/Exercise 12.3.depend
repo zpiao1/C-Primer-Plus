@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1451550528 source:c:\users\zpiao\programming\c\c primer plus\exercise 12.3\pe12-3a.c
+	<stdio.h>
+	"pe12-3a.h"
+
+1451550508 c:\users\zpiao\programming\c\c primer plus\exercise 12.3\pe12-3a.h
+
+1451550545 source:c:\users\zpiao\programming\c\c primer plus\exercise 12.3\pe12-3b.c
+	<stdio.h>
+	"pe12-3a.h"
+

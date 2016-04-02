@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1453889177 source:c:\users\zpiao\programming\c\c primer plus\exercise 17.7\word_freq.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"tree.h"
+
+1453887608 c:\users\zpiao\programming\c\c primer plus\exercise 17.7\tree.h
+	<stdbool.h>
+
+1453888576 source:c:\users\zpiao\programming\c\c primer plus\exercise 17.7\tree.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"tree.h"
+

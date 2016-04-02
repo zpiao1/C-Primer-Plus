@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1451814594 source:c:\users\zpiao\programming\c\c primer plus\listing 13.2\reducto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
